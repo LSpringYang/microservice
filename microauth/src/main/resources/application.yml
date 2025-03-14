@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: microauth
+server:
+  port: 1021

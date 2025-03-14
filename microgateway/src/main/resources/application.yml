@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: microgateway
+server:
+  port: 8080
